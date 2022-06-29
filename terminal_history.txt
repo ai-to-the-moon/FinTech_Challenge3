@@ -1,0 +1,13 @@
+    1  cd /D/
+    2  git clone https://github.com/ai-to-the-moon/FinTech_Challenge3.git
+    3  print pandas.__version__
+    4  import pandas
+    5  git clone https://github.com/ai-to-the-moon/FinTech_Challenge3.git
+    6  git status
+    7  cd /D/Fintech_Challenge3
+    8  git status
+    9  git status
+   10  git add .
+   11  git commit -m "Updated README and Jupyter notebook"
+   12  git push
+   13  history 50 > terminal_history.txt
